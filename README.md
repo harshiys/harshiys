@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Harshita 👋
 
-<!--
-**harshiys/harshiys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Penetration Tester | Red Team Enthusiast | CSE @ IIIT Pune
 
-Here are some ideas to get you started:
+I break things on purpose so they can be built stronger. Currently exploring offensive security, SIEM/detection engineering, and backend development as a foundation for long-term AppSec work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Currently building:** An Active Directory Attack & Defense Lab (Domain Controller + Windows client + Kali attacker), based on peer-reviewed AD security research
+
+🌱 **Learning:** Backend development to complement my security skill set
+
+🏆 **TryHackMe:** Top 25% globally  
+🏆 **LeetCode:** 300+ problems solved
+
+### 🛠️ Tools & Tech
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,linux,git,mysql)](https://skillicons.dev)
+
+![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat)
+![Wazuh](https://img.shields.io/badge/-Wazuh%20SIEM-blue?style=flat)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+
+### 📫 Find me here
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-verma18)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0416blink)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/XuWZLzz5Tz/)
