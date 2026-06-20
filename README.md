@@ -24,7 +24,6 @@ I break things on purpose so they can be built stronger. Currently exploring off
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-verma18)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0416blink)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/XuWZLzz5Tz/)
 
 ### 🌱 Open Source Contributions
 
