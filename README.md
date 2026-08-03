@@ -4,7 +4,7 @@
 
 I build offensive-security labs to understand how real-world attacks work and how defenders detect them. My interests include Active Directory security, SIEM engineering, Windows authentication, and attack simulation.
 
-🏆 **TryHackMe:** Top 25% globally
+🏆 **TryHackMe:** Top 15% globally
 🏆 **LeetCode:** 300+ problems solved
 
 ---
